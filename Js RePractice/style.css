@@ -1,0 +1,72 @@
+/* .para-style{
+    font-size: 3rem;
+    font-style: italic;
+    font-weight: bold;
+    background: linear-gradient(        to right,        #7953cd 20%,        #00affa 30%,        #0190cd 70%,        #764ada 80%    );
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-fill-color: transparent;
+    background-size: 500% auto;
+    animation: textShine 5s ease-in-out infinite alternate;
+    -webkit-animation: textShine 5s ease-in-out infinite alternate;
+    transition: 0.5s;
+    -webkit-transition: 0.5s;
+    -moz-transition: 0.5s;
+    -ms-transition: 0.5s;
+    -o-transition: 0.5s;
+}
+
+@keyframes textShine {
+    0% {
+        background-position: 0% 50%;
+    }
+    100% {
+        background-position: 100% 50%;
+    }
+}  */
+
+/* .niceNumber p{
+    padding: 0 10px;
+    font-size: 18px;
+    font-weight: bold;
+} */
+
+/* button{
+    margin-top: 20px;
+    width: 40px;
+    height: 40px;
+    font-weight: bold;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    border: transparent;
+    background-color: rgba(150, 221, 224, 0.747);
+}
+button:nth-child(1){
+    margin-left: 20px;
+}
+/* .niceNumber{
+    display: inline-block;
+    border: 1px solid black;
+    border-radius: 2px;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    -ms-border-radius: 2px;
+    -o-border-radius: 2px;
+} */
+
+/* .anim{
+    box-shadow: 10px 10px 5px 0px rgba(255, 6, 6, 0.75);
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(255, 0, 0, 0.75);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(255, 0, 0, 0.75);
+}  */
+
+
+/* div{
+    width: 300px;
+    height: 300px;
+    background-color: orangered;
+} */
